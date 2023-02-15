@@ -11,7 +11,7 @@ document.getElementById('loginBtn').addEventListener('click', function(){
     
     // Log in Condition 
     if(emailInputValue === 'admin@gmail.com' && passInputValue === 'admin'){
-        window.location.href = '/htmlFile/index.html';
+        window.location.href = '/htmlFile/bank.html';
         document.getElementById('loginBtn').style.backgroundColor="green";
         document.getElementById('loginBtn').style.color="white";
     }else{
