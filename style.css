@@ -1,0 +1,4 @@
+:focus-visible {
+    /* outline: auto 0px; */
+    outline: 1px solid pink;
+}
